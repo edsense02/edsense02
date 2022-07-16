@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Edward Kim
-- 🌱 I’m currently an undergraduate at Stanford University
+- 🌱 I’m an undergraduate at Stanford University
 - 📫 How to reach me: edkim36@stanford.edu
 
 <!---
